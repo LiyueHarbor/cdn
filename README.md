@@ -2,10 +2,10 @@
 
 How to use it? 
 ```diff
-+ https://ly.elara.workers.dev/:path
++ https://lh.elara.workers.dev/:path
 ```
 
 Example: 
 ```diff
-+ https://ly.elara.workers.dev/cards/card_name_here.png
++ https://lh.elara.workers.dev/cards/card_name_here.png
 ```
